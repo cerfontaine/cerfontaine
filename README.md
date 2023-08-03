@@ -1,9 +1,19 @@
 ### Hi there 👋
 
-<!--
-**cerfontaine/cerfontaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨🏽‍💻 About me
+Currently, I contribute my skills as a Technical Consultant at [Worldline](https://www.worldline.com).
 
-Here are some ideas to get you started:
+## 🎯 Skills
+<p align="left">
+    <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://cerfontaine.github.io/assets/html.png" alt="html" height="40" /></a>&nbsp;
+    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cerfontaine.github.io/assets/css.png" alt="css" height="40" /></a>&nbsp;
+    <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://cerfontaine.github.io/assets/js.png" alt="javascript" height="40" /></a>&nbsp;
+    <a href="https://react.dev/" target="_blank"><img src="https://cerfontaine.github.io/assets/react.png" alt="react" height="40" /></a>&nbsp;
+    <a href="https://tailwindcss.com/" target="_blank"><img src="https://cerfontaine.github.io/assets/tailwind.png" alt="tailwind" height="40" /></a>&nbsp;
+    <a href="https://nodejs.org/en" target="_blank"><img src="https://cerfontaine.github.io/assets/nodejs.png" alt="nodejs" height="40" /></a>&nbsp;
+    <a href="https://www.adobe.com/be_fr/products/photoshop/landpb.html" target="_blank"><img src="https://cerfontaine.github.io/assets/ps.png" alt="photoshop" height="40" /></a>&nbsp;
+    <a href="https://git-scm.com/" target="_blank"><img src="https://cerfontaine.github.io/assets/git.png" alt="git" height="40" /></a>&nbsp;
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
