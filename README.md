@@ -1,7 +1,7 @@
 # 🦆 Hi, I'm Dorian ! 
 
 ## 👨🏽‍💻 About me
-Currently, I contribute my skills as a Technical Consultant at [Worldline](https://www.worldline.com).
+Currently, I contribute my skills as a Cyber Risk Advisor at [BDO Belgium](https://www.bdo.be).
 
 ## 🎯 Skills
 <p align="left">
@@ -26,7 +26,7 @@ Currently, I contribute my skills as a Technical Consultant at [Worldline](https
 
 <p align="left">
     <a href="https://www.instagram.com/d.cerfontaine/" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/247119221-6f01b9e8-3edc-45b6-adae-eee199d0d992.png" alt="Instagram" height="40" /></a>&nbsp;
-    <a href="https://www.linkedin.com/in/dorian-cerfontaine-46643a1aa/" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/247120693-a2220961-bee1-4c2f-bd2d-252217713733.png" alt="Linkedin" height="40" /></a>&nbsp;
+    <a href="https://www.linkedin.com/in/doriancerfontaine/" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/102294421/247120693-a2220961-bee1-4c2f-bd2d-252217713733.png" alt="Linkedin" height="40" /></a>&nbsp;
 </p>
 
 
